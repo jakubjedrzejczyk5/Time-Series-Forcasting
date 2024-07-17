@@ -1,7 +1,7 @@
 # Time-Series-Forcasting
 # Projekt ASR: Prognoza pogody w Rzeszowie
-
-## Opis projektu
+Plik .pdf zawiera dokładny opis całego projektu
+## Streszczenie porjektu projektu
 
 Projekt polegał na analizie i prognozowaniu temperatury w Rzeszowie z wykorzystaniem różnych modeli szeregów czasowych. Dane meteorologiczne pochodziły ze strony NASA [https://power.larc.nasa.gov/data-access-viewer/](https://power.larc.nasa.gov/data-access-viewer/) i obejmowały lata 1982-2024.
 
